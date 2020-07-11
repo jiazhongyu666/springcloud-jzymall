@@ -1,2 +1,2 @@
-# cloud-jzymall
+# springcloud-jzymall
 商城
